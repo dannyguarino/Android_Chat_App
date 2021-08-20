@@ -25,6 +25,4 @@ The above Key Features will fulfill the following criteria.
 * Service : The user can upload his/her profile pic and informaton as well as cna send and receive messages.
 * User can navigate among different activities mentioned above.
 
-## URL
 
-<https://console.firebase.google.com>
